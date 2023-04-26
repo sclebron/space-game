@@ -1,0 +1,9 @@
+{
+    "name": "space-game",
+    "version": "1.0.0",
+    "description": "A game where you protect your planet by defeating the evil aliens!",
+    "main": "server.js",
+    "scripts": {
+        
+    }
+}
